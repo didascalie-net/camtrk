@@ -257,7 +257,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
 					"patching_rect" : [ 1045.801392, 700.219238, 159.0, 20.0 ],
-					"text" : "vari /ct2/udpreceive/port"
+					"text" : "var /ct2/udpreceive/port"
 				}
 
 			}
@@ -305,7 +305,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
 					"patching_rect" : [ 1045.801392, 662.699585, 153.0, 20.0 ],
-					"text" : "vari /ct2/udpreceive/sw"
+					"text" : "var /ct2/udpreceive/sw"
 				}
 
 			}
@@ -672,7 +672,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
 					"patching_rect" : [ 664.28241, 629.89325, 124.0, 20.0 ],
-					"text" : "vari /ct2/2/grid/sw"
+					"text" : "var /ct2/2/grid/sw"
 				}
 
 			}
@@ -702,7 +702,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
 					"patching_rect" : [ 664.28241, 603.89325, 131.0, 20.0 ],
-					"text" : "vari /ct2/2/cntrd/sw"
+					"text" : "var /ct2/2/cntrd/sw"
 				}
 
 			}
@@ -732,7 +732,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
 					"patching_rect" : [ 664.28241, 577.852234, 120.0, 20.0 ],
-					"text" : "vari /ct2/2/diff/sw"
+					"text" : "var /ct2/2/diff/sw"
 				}
 
 			}
@@ -762,7 +762,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
 					"patching_rect" : [ 664.28241, 551.565125, 125.0, 20.0 ],
-					"text" : "vari /ct2/2/rota/sw"
+					"text" : "var /ct2/2/rota/sw"
 				}
 
 			}
@@ -792,7 +792,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
 					"patching_rect" : [ 464.7229, 629.89325, 124.0, 20.0 ],
-					"text" : "vari /ct2/1/grid/sw"
+					"text" : "var /ct2/1/grid/sw"
 				}
 
 			}
@@ -822,7 +822,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
 					"patching_rect" : [ 464.7229, 603.89325, 131.0, 20.0 ],
-					"text" : "vari /ct2/1/cntrd/sw"
+					"text" : "var /ct2/1/cntrd/sw"
 				}
 
 			}
@@ -852,7 +852,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
 					"patching_rect" : [ 464.7229, 577.852234, 120.0, 20.0 ],
-					"text" : "vari /ct2/1/diff/sw"
+					"text" : "var /ct2/1/diff/sw"
 				}
 
 			}
@@ -882,7 +882,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
 					"patching_rect" : [ 464.7229, 551.565125, 125.0, 20.0 ],
-					"text" : "vari /ct2/1/rota/sw"
+					"text" : "var /ct2/1/rota/sw"
 				}
 
 			}
@@ -912,7 +912,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
 					"patching_rect" : [ 464.7229, 524.992798, 130.0, 20.0 ],
-					"text" : "vari /ct2/brcosa/sw"
+					"text" : "var /ct2/brcosa/sw"
 				}
 
 			}
@@ -23616,7 +23616,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
 					"patching_rect" : [ 1090.994751, 927.24176, 173.0, 20.0 ],
-					"text" : "vari /ct2/2/rota/boundmode"
+					"text" : "var /ct2/2/rota/boundmode"
 				}
 
 			}
@@ -23664,7 +23664,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
 					"patching_rect" : [ 1046.602661, 907.863342, 137.0, 20.0 ],
-					"text" : "vari /ct2/2/rota/theta"
+					"text" : "var /ct2/2/rota/theta"
 				}
 
 			}
@@ -23712,7 +23712,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
 					"patching_rect" : [ 1046.602661, 888.052795, 148.0, 20.0 ],
-					"text" : "vari /ct2/2/rota/offset/y"
+					"text" : "var /ct2/2/rota/offset/y"
 				}
 
 			}
@@ -23760,7 +23760,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
 					"patching_rect" : [ 1046.602661, 868.052795, 148.0, 20.0 ],
-					"text" : "vari /ct2/2/rota/offset/x"
+					"text" : "var /ct2/2/rota/offset/x"
 				}
 
 			}
@@ -23808,7 +23808,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
 					"patching_rect" : [ 1046.602661, 847.789551, 156.0, 20.0 ],
-					"text" : "vari /ct2/2/rota/anchor/y"
+					"text" : "var /ct2/2/rota/anchor/y"
 				}
 
 			}
@@ -23856,7 +23856,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
 					"patching_rect" : [ 1046.602661, 827.789551, 156.0, 20.0 ],
-					"text" : "vari /ct2/2/rota/anchor/x"
+					"text" : "var /ct2/2/rota/anchor/x"
 				}
 
 			}
@@ -23904,7 +23904,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
 					"patching_rect" : [ 1046.602661, 807.289551, 149.0, 20.0 ],
-					"text" : "vari /ct2/2/rota/zoom/y"
+					"text" : "var /ct2/2/rota/zoom/y"
 				}
 
 			}
@@ -23952,7 +23952,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
 					"patching_rect" : [ 1046.602661, 787.289551, 149.0, 20.0 ],
-					"text" : "vari /ct2/2/rota/zoom/x"
+					"text" : "var /ct2/2/rota/zoom/x"
 				}
 
 			}
@@ -24001,7 +24001,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
 					"patching_rect" : [ 1047.054199, 966.195129, 171.0, 20.0 ],
-					"text" : "vari /ct2/2/cntrd/smoothing"
+					"text" : "var /ct2/2/cntrd/smoothing"
 				}
 
 			}
@@ -24051,7 +24051,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
 					"patching_rect" : [ 1046.602661, 946.231812, 138.0, 20.0 ],
-					"text" : "vari /ct2/2/diff/thresh"
+					"text" : "var /ct2/2/diff/thresh"
 				}
 
 			}
@@ -24198,7 +24198,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
 					"patching_rect" : [ 1046.602661, 1005.690247, 163.0, 20.0 ],
-					"text" : "vari /ct2/2/grid/slidedown"
+					"text" : "var /ct2/2/grid/slidedown"
 				}
 
 			}
@@ -24213,7 +24213,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
 					"patching_rect" : [ 1046.602661, 985.960999, 147.0, 20.0 ],
-					"text" : "vari /ct2/2/grid/slideup"
+					"text" : "var /ct2/2/grid/slideup"
 				}
 
 			}
@@ -24246,7 +24246,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
 					"patching_rect" : [ 1046.602661, 1084.6073, 157.0, 20.0 ],
-					"text" : "vari /ct2/2/grid/disp/gain"
+					"text" : "var /ct2/2/grid/disp/gain"
 				}
 
 			}
@@ -24261,7 +24261,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
 					"patching_rect" : [ 1046.602661, 1064.878052, 141.0, 20.0 ],
-					"text" : "vari /ct2/2/grid/inmax"
+					"text" : "var /ct2/2/grid/inmax"
 				}
 
 			}
@@ -24295,7 +24295,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
 					"patching_rect" : [ 1046.602661, 1045.148804, 115.0, 20.0 ],
-					"text" : "vari /ct2/2/grid/y"
+					"text" : "var /ct2/2/grid/y"
 				}
 
 			}
@@ -24310,7 +24310,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
 					"patching_rect" : [ 1046.602661, 1025.419556, 115.0, 20.0 ],
-					"text" : "vari /ct2/2/grid/x"
+					"text" : "var /ct2/2/grid/x"
 				}
 
 			}
@@ -25375,7 +25375,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
 					"patching_rect" : [ 1087.193481, 317.193512, 173.0, 20.0 ],
-					"text" : "vari /ct2/1/rota/boundmode"
+					"text" : "var /ct2/1/rota/boundmode"
 				}
 
 			}
@@ -25423,7 +25423,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
 					"patching_rect" : [ 1042.801392, 297.815063, 137.0, 20.0 ],
-					"text" : "vari /ct2/1/rota/theta"
+					"text" : "var /ct2/1/rota/theta"
 				}
 
 			}
@@ -25471,7 +25471,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
 					"patching_rect" : [ 1042.801392, 278.004517, 148.0, 20.0 ],
-					"text" : "vari /ct2/1/rota/offset/y"
+					"text" : "var /ct2/1/rota/offset/y"
 				}
 
 			}
@@ -25519,7 +25519,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
 					"patching_rect" : [ 1042.801392, 258.004486, 148.0, 20.0 ],
-					"text" : "vari /ct2/1/rota/offset/x"
+					"text" : "var /ct2/1/rota/offset/x"
 				}
 
 			}
@@ -25567,7 +25567,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
 					"patching_rect" : [ 1042.801392, 237.741302, 156.0, 20.0 ],
-					"text" : "vari /ct2/1/rota/anchor/y"
+					"text" : "var /ct2/1/rota/anchor/y"
 				}
 
 			}
@@ -25615,7 +25615,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
 					"patching_rect" : [ 1042.801392, 217.741302, 156.0, 20.0 ],
-					"text" : "vari /ct2/1/rota/anchor/x"
+					"text" : "var /ct2/1/rota/anchor/x"
 				}
 
 			}
@@ -25663,7 +25663,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
 					"patching_rect" : [ 1042.801392, 197.241302, 149.0, 20.0 ],
-					"text" : "vari /ct2/1/rota/zoom/y"
+					"text" : "var /ct2/1/rota/zoom/y"
 				}
 
 			}
@@ -25711,7 +25711,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
 					"patching_rect" : [ 1042.801392, 177.241302, 149.0, 20.0 ],
-					"text" : "vari /ct2/1/rota/zoom/x"
+					"text" : "var /ct2/1/rota/zoom/x"
 				}
 
 			}
@@ -26213,7 +26213,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
 					"patching_rect" : [ 1045.801392, 603.636719, 150.0, 20.0 ],
-					"text" : "vari /ct2/bigwindow/sw"
+					"text" : "var /ct2/bigwindow/sw"
 				}
 
 			}
@@ -26349,7 +26349,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
 					"patching_rect" : [ 1042.801392, 532.990784, 146.0, 20.0 ],
-					"text" : "vari /ct2/udpsend/port"
+					"text" : "var /ct2/udpsend/port"
 				}
 
 			}
@@ -26397,7 +26397,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
 					"patching_rect" : [ 1143.794189, 515.730957, 152.798462, 20.0 ],
-					"text" : "vari /ct2/udpsend/host"
+					"text" : "var /ct2/udpsend/host"
 				}
 
 			}
@@ -26428,7 +26428,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
 					"patching_rect" : [ 1042.801392, 495.47113, 140.0, 20.0 ],
-					"text" : "vari /ct2/udpsend/sw"
+					"text" : "var /ct2/udpsend/sw"
 				}
 
 			}
@@ -26522,7 +26522,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
 					"patching_rect" : [ 1043.25293, 356.146851, 171.0, 20.0 ],
-					"text" : "vari /ct2/1/cntrd/smoothing"
+					"text" : "var /ct2/1/cntrd/smoothing"
 				}
 
 			}
@@ -26572,7 +26572,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
 					"patching_rect" : [ 1042.801392, 336.183533, 138.0, 20.0 ],
-					"text" : "vari /ct2/1/diff/thresh"
+					"text" : "var /ct2/1/diff/thresh"
 				}
 
 			}
@@ -26829,7 +26829,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
 					"patching_rect" : [ 1042.801392, 395.642029, 163.0, 20.0 ],
-					"text" : "vari /ct2/1/grid/slidedown"
+					"text" : "var /ct2/1/grid/slidedown"
 				}
 
 			}
@@ -26844,7 +26844,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
 					"patching_rect" : [ 1042.801392, 375.912842, 147.0, 20.0 ],
-					"text" : "vari /ct2/1/grid/slideup"
+					"text" : "var /ct2/1/grid/slideup"
 				}
 
 			}
@@ -26911,7 +26911,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
 					"patching_rect" : [ 1042.801392, 157.948227, 168.0, 20.0 ],
-					"text" : "vari /ct2/brcosa/saturation"
+					"text" : "var /ct2/brcosa/saturation"
 				}
 
 			}
@@ -26926,7 +26926,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
 					"patching_rect" : [ 1042.801392, 138.324265, 158.0, 20.0 ],
-					"text" : "vari /ct2/brcosa/contrast"
+					"text" : "var /ct2/brcosa/contrast"
 				}
 
 			}
@@ -26941,7 +26941,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
 					"patching_rect" : [ 1042.801392, 118.716873, 171.0, 20.0 ],
-					"text" : "vari /ct2/brcosa/brightness"
+					"text" : "var /ct2/brcosa/brightness"
 				}
 
 			}
@@ -26956,7 +26956,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
 					"patching_rect" : [ 1042.801392, 99.09288, 159.0, 20.0 ],
-					"text" : "vari /ct2/grab/inverthoriz"
+					"text" : "var /ct2/grab/inverthoriz"
 				}
 
 			}
@@ -26986,7 +26986,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
 					"patching_rect" : [ 464.7229, 494.782074, 118.0, 20.0 ],
-					"text" : "vari /ct2/grab/sw"
+					"text" : "var /ct2/grab/sw"
 				}
 
 			}
@@ -27051,7 +27051,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
 					"patching_rect" : [ 1042.801392, 474.559082, 157.0, 20.0 ],
-					"text" : "vari /ct2/1/grid/disp/gain"
+					"text" : "var /ct2/1/grid/disp/gain"
 				}
 
 			}
@@ -27066,7 +27066,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
 					"patching_rect" : [ 1042.801392, 454.829834, 141.0, 20.0 ],
-					"text" : "vari /ct2/1/grid/inmax"
+					"text" : "var /ct2/1/grid/inmax"
 				}
 
 			}
@@ -27100,7 +27100,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
 					"patching_rect" : [ 1042.801392, 435.100525, 115.0, 20.0 ],
-					"text" : "vari /ct2/1/grid/y"
+					"text" : "var /ct2/1/grid/y"
 				}
 
 			}
@@ -27115,7 +27115,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
 					"patching_rect" : [ 1042.801392, 415.371277, 115.0, 20.0 ],
-					"text" : "vari /ct2/1/grid/x"
+					"text" : "var /ct2/1/grid/x"
 				}
 
 			}
@@ -29301,9 +29301,9 @@
 			}
  ],
 		"dependency_cache" : [ 			{
-				"name" : "vari.mxt",
-				"bootpath" : "/there/projects1/Environments/didascalie-net/tapemovie/tapemovie-lib/common/common-lib/vari-lib",
-				"patcherrelativepath" : "../../common/common-lib/vari-lib",
+				"name" : "var.mxt",
+				"bootpath" : "/there/projects1/Environments/didascalie-net/tapemovie/tapemovie-lib/common/common-lib/var-lib",
+				"patcherrelativepath" : "../../common/common-lib/var-lib",
 				"type" : "TEXT",
 				"implicit" : 1
 			}
